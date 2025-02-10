@@ -6,34 +6,18 @@ Traditional methods of attendance monitoring, such as manual roll calls and pape
 
 1. <b><ins>Active Feedback System</ins>:</b> Unlike other available options, our system can send email responses to the attendees, who face have been recognized by our system, as a confirmation of their attendance being recorded. 
 
- 
+2. <b><ins>Multiple Faces in a Single Frame</ins>:<b> Unlike other available options, our system can detect and recognize multiple faces within a single frame accurately. This adds to the scalability of our solution. 
 
-Multiple Faces in a Single Frame: Unlike other available options, our system can detect and recognize multiple faces within a single frame accurately. This adds to the scalability of our solution. 
+3. <b><ins>Anomaly Detection</ins>:<b> Unlike other available options, our system is able finds an anomaly, that is, a person who is not registered in the database, among people or faces who are registered in the database, thus altering the teacher in charge to take any required actions. This adds to the security that our system provides. 
 
- 
+4. <b><ins>Distinguishing between Identical Twins</ins>:<b> Unlike other available systems, our system is extensively trained on several faces, because of which it can recognize and differentiate between identical twins, even within the same frame. 
 
-Anomaly Detection: Unlike other available options, our system is able finds an anomaly, that is, a person who is not registered in the database, among people or faces who are registered in the database, thus altering the teacher in charge to take any required actions. This adds to the security that our system provides. 
+5. <b><ins>Works even in Adverse Environment Conditions</ins>:<b> Unlike other available systems, our system works perfectly in low or bad lighting conditions. 
 
- 
+6. <b><ins>Cost Effectiveness</ins>:<b> Unlike other available options, which need expensive hardware to get deployed, our solution has no limitations, it can be deployed in any system with a windows operating system running, like a mini pc or anything that works on a 64-bit CPU architecture. 
 
-Distinguishing between Identical Twins: Unlike other available systems, our system is extensively trained on several faces, because of which it can recognize and differentiate between identical twins, even within the same frame. 
+7. <b><ins>Easy to manage Database</ins>:<b> Unlike other available options, which works on fixed databases, our system works on a dynamic database, which can be easily edited by the admin at any time, without re-training the entire model every time the database is changed or updated. 
 
- 
+8. <b><ins>Security Feature</ins>:<b> When an unregistered person is detected, the security personnel of the campus will be altered about that appearance and where that unregistered person is detected, that it, the security personnel with provided with the camera number which has detected that unregister person. 
 
-Works even in Adverse Environment Conditions: Unlike other available systems, our system works perfectly in low or bad lighting conditions. 
-
- 
-
-Cost Effectiveness: Unlike other available options, which need expensive hardware to get deployed, our solution has no limitations, it can be deployed in any system with a windows operating system running, like a mini pc or anything that works on a 64-bit CPU architecture. 
-
- 
-
-Easy to manage Database: Unlike other available options, which works on fixed databases, our system works on a dynamic database, which can be easily edited by the admin at any time, without re-training the entire model every time the database is changed or updated. 
-
- 
-
-Security Feature: When an unregistered person is detected, the security personnel of the campus will be altered about that appearance and where that unregistered person is detected, that it, the security personnel with provided with the camera number which has detected that unregister person. 
-
- 
-
-Complete Automation: Unlike other available options, which need constant human monitoring and intervention, whereas our system does not need any form of human intervention to function, once it is turned on, it can perform its designated work accordingly on its own, unless it is turned off. 
+9. <b><ins>Complete Automation</ins>:<b> Unlike other available options, which need constant human monitoring and intervention, whereas our system does not need any form of human intervention to function, once it is turned on, it can perform its designated work accordingly on its own, unless it is turned off. 

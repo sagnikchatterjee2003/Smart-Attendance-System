@@ -4,7 +4,7 @@ Traditional methods of attendance monitoring, such as manual roll calls and pape
 
 <h1>Unique Features</h1>
 
-1. <b><u>Active Feedback System</u>:</b> Unlike other available options, our system can send email responses to the attendees, who face have been recognized by our system, as a confirmation of their attendance being recorded. 
+1. <b><ins>Active Feedback System</ins>:</b> Unlike other available options, our system can send email responses to the attendees, who face have been recognized by our system, as a confirmation of their attendance being recorded. 
 
  
 
